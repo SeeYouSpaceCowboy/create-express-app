@@ -1,6 +1,6 @@
 # Node.Js + Express + Babel
 
-This repo is a minimal Node.Js + Express + Babel envornment. 
+This repo is a minimal Node.Js + Express + Babel environment. 
 
 This repo orginally came from the [Build a Reddit API Clone - Part 1](https://youtu.be/L5Nle1VXYnw) video.
 
