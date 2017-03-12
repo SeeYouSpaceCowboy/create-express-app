@@ -1,8 +1,8 @@
-# Node.Js + Express + Babel
+# Node.Js + Express + Babel MVC
 
-This repo is a minimal Node.Js + Express + Babel environment. 
+This repo is a minimal Node.Js + Express + Babel MVC environment. 
 
-This repo orginally came from the [Build a Reddit API Clone - Part 1](https://youtu.be/L5Nle1VXYnw) video.
+This repo was modified to include MVC and orginally came from the [Build a Reddit API Clone - Part 1](https://youtu.be/L5Nle1VXYnw) video.
 
 ## Prerequisites 
 
